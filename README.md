@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 <!-- - 💬 Ask me about ... -->
 - 📫 You can reach me by email at timiddon97@gmail.com
 <!-- - 😄 Pronouns: ... -->
-- ⚡ Fun fact: ...
+<!-- - ⚡ Fun fact: ... -->
