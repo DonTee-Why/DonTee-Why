@@ -10,7 +10,6 @@ I'm a software developer with over 5 years of experience. I mainly write softwar
 * 📫  You can contact me at [timiddon97@gmail.com](mailto:timiddon97@gmail.com)
 * 👯‍♀️ I'm looking to collaborate on PHP open-source projects
 * 📝 I sometimes write articles on [https://dev.to/timiddon](https://dev.to/timiddon)
-<!-- * 🧠  I am currently learning how to play the piano🌚 -->
 * ⚡  In my free time, I play the guitar😎
 
 ## Connect with me:
