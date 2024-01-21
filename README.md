@@ -4,7 +4,7 @@
 ## I am Timilehin Olusegun. You can call me Timi, and I enjoy writing code. 
 
 
-I'm a software developer with over 5 years of experience. I mainly write software in PHP, Laravel, C# and ASP.NET. I am also skilled in Java, Python and Flutter.
+I'm a software developer with over 5 years of experience. I mainly write software in PHP, Laravel and C#. I have also worked with Java, Python and Flutter.
 
 * 🌍  I'm based in Lagos, Nigeria.
 * 📫  You can contact me at [timiddon97@gmail.com](mailto:timiddon97@gmail.com)
