@@ -7,7 +7,7 @@
 I'm a software developer with over 5 years of experience. I mainly write software in PHP, Laravel and C#. I have also worked with Java, Python and Flutter.
 
 * 🌍  I'm based in Lagos, Nigeria.
-* 📫  You can contact me at [timiddon97@gmail.com](mailto:timiddon97@gmail.com)
+* 📫  You can contact me at [me.timiolusegun@gmail.com](mailto:me.timiolusegun@gmail.com)
 * 📝 I sometimes write articles on [https://dev.to/timiddon](https://dev.to/timiddon)
 * ⚡  In my free time, I play the guitar😎
 
