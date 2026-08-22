@@ -22,6 +22,6 @@ jobs:
           exclude_repos: "test-repo,old-project"
           include_forks: "true"
           exclude_languages: "HTML,CSS,Markdown"
-          top_repos_count: "10"
+          top_repos_count: "20"
           dark_mode: "true"
           use_loc: "true"
